@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?><font></font>
+
+<widget xmlns   = "http://www.w3.org/ns/widgets"<font></font>
+
+ xmlns:gap   = "http://phonegap.com/ns/1.0"<font></font>
+
+ id          = "com.geneziolavor.ITAGAME"<font></font>
+
+    versionCode = "10"<font></font>
+
+    version     = "1.0.0" ><font></font>
+
+<font></font>
+
+<!-- versionCode is optional and Android only --><font></font>
+
+<font></font>
+
+  <name>Photohunt Game</name><font></font>
+
+<font></font>
+
+  <description><font></font>
+
+      Photohunt Game.<font></font>
+
+  </description><font></font>
+
+<font></font>
+
+  <author href="https://github.com/geneziolavor/ITAGAME" email="gegeitp@gmail.com"><font></font>
+
+      kruchian p.<font></font>
+
+  </author><font></font>
+
+</widget>
